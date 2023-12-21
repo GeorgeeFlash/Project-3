@@ -1,0 +1,8 @@
+export { default as thumbnail1 } from './thumbnail1.png'
+export { default as thumbnail2 } from './thumbnail2.png'
+export { default as thumbnail3 } from './thumbnail3.png'
+export { default as thumbnail4 } from './thumbnail4.png'
+export { default as thumbnail5 } from './thumbnail5.png'
+export { default as thumbnail6 } from './thumbnail6.png'
+export { default as thumbnail7 } from './thumbnail7.png'
+export { default as thumbnail8 } from './thumbnail8.png'
